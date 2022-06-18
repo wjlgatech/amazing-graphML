@@ -1,6 +1,6 @@
 # amazing-graphML
 
-### Top3 List 
+### Top3 Today 
 - [/5] 06/18 [2022 Keith McNulty: Handbook of Graph and Network in People Analytics](https://ona-book.org/index.html)
 - [3/5] 06/18 [2021 Petar Veličković: Intro to graph neural network](https://www.youtube.com/watch?v=8owQBFAHw7E)
 
